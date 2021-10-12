@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Oscmarb\MessengerQueryBus;
+namespace Oscmarb\SymfonyMessengerQueryBus;
 
 final class QueryNotRegisteredException extends \RuntimeException
 {

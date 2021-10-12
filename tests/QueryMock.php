@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Oscmarb\MessengerQueryBus\Tests;
+namespace Oscmarb\SymfonyMessengerQueryBus\Tests;
 
 use Oscmarb\Ddd\Domain\Query\Query;
 

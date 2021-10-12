@@ -2,11 +2,11 @@
 
 declare(strict_types=1);
 
-namespace Oscmarb\MessengerQueryBus\Tests;
+namespace Oscmarb\SymfonyMessengerQueryBus\Tests;
 
 use Oscmarb\Ddd\Domain\Query\Response\StringResponse;
-use Oscmarb\MessengerQueryBus\QueryNotRegisteredException;
-use Oscmarb\MessengerQueryBus\SymfonyMessengerQueryBus;
+use Oscmarb\SymfonyMessengerQueryBus\QueryNotRegisteredException;
+use Oscmarb\SymfonyMessengerQueryBus\SymfonyMessengerQueryBus;
 use PHPUnit\Framework\TestCase;
 
 final class MessengerQueryBusTest extends TestCase

@@ -19,12 +19,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Oscmarb\\MessengerQueryBus\\": "src/"
+      "Oscmarb\\SymfonyMessengerQueryBus\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Oscmarb\\MessengerQueryBus\\Tests\\": "tests/"
+      "Oscmarb\\SymfonyMessengerQueryBus\\Tests\\": "tests/"
     }
   }
 }
